@@ -49,7 +49,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-A simple command-line tool I developed to automate the creation of vocab cards for space-repetition learning. At this stage it's capable of scanning entire Japanese ebooks and Using NLP, tokenizing every proper Japanese word, while also deinflecting all the verbs it finds. These tokens are then sorted into a list by frequency. This list is then fed into JMDict, a large machine-readable multilingual Japanese dictionary, to get English definitions and grammar notes for every word. Finally these words are then converted into cards in an Anki Deck using Genanki, so they can be utilised for space-repetition practice. This project is still in its VERY early stages and I'm learning as I go, but I have plans to add support for more languages down the line to facilitate other language learning ventures.
+A simple command-line tool I developed to automate the creation of vocab cards for space-repetition learning. At this stage it's capable of scanning entire Japanese ebooks and using NLP, tokenizes every proper Japanese word, while also deinflecting all the verbs it finds. These tokens are then sorted into a list by frequency. This list is then fed into JMDict, a large machine-readable multilingual Japanese dictionary, to get English definitions and grammar notes for every word. Finally these words are then converted into cards in an Anki Deck using Genanki, so they can be utilised for space-repetition practice. This project is still in its VERY early stages and I'm learning as I go, but I have plans to add support for more languages down the line to facilitate other language learning ventures.
 
 
 <br />
