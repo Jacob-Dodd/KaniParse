@@ -1,0 +1,7 @@
+EbookLib==0.18
+genanki==0.13.0
+jamdict==0.1a11.post2
+Janome==0.4.2
+simple_term_menu==1.5.2
+spacy==3.4.3
+tqdm==4.64.1
